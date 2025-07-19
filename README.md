@@ -47,7 +47,7 @@ Special thanks to my faculty for helping me clear doubts and providing valuable 
 ## 📎 Dataset
 
 - Source: Kaggle  
-- [Graduate Admission Dataset](https://www.kaggle.com/mohansacharya/graduate-admissions)
+- [Graduate Admission Dataset](https://www.kaggle.com/datasets/mukeshmanral/graduates-admission-prediction)
 
 ## 🔗 Connect with Me
 
